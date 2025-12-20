@@ -6,9 +6,9 @@ import { work, education, sideQuests } from "./lib/const";
 
 function App() {
   return (
-    <div className="p-8 space-y-6">
-      <div className="grid grid-cols-5 gap-6">
-        <div className="col-span-2">
+    <div className="p-4 md:p-8 space-y-6">
+      <div className="grid grid-cols-1 md:grid-cols-5 gap-6">
+        <div className="col-span-1 md:col-span-2">
           <div className="space-y-4">
             <h1>adam el taha</h1>
 
@@ -53,7 +53,7 @@ function App() {
           </section>
         </div>
 
-        <div className="col-span-3 relative">
+        <div className="col-span-1 md:col-span-3 relative min-h-125 md:min-h-0">
           <BentoGrid className="absolute inset-0" />
         </div>
       </div>
