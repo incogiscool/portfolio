@@ -54,27 +54,27 @@ export const education: Education[] = [
 export const sideQuests: SideQuest[] = [
   {
     title: "FFR (Fast F*cking Rocket)",
-    description: "My L1 certification rocket (set for launch IREC 2026)",
+    description: "My L1 certification rocket (set for launch this summer).",
   },
   {
     title: "Agentpress",
-    description: "Add AI Agents to any Next.js with one line of code",
+    description: "Add AI agents to any Next.js with one line of code.",
     link: "https://github.com/incogiscool/agentpress",
   },
   {
     title: "Hend",
-    description: "Helping students stay focused",
+    description: "Helping students stay focused.",
     link: "https://study.hend.app/",
   },
   {
     title: "Uni",
-    description: "Rust & Next.js based NAS I built to learn rust",
+    description: "Rust & Next.js based NAS I built to learn rust.",
     link: "https://github.com/incogiscool/uni",
   },
   {
     title: "Atom",
     description:
-      "Blog CMS for Next.js - Add a full blog to any Next.js app with one line of code",
+      "Blog CMS for Next.js. Add a full blog to any Next.js app with one line of code",
     link: "https://github.com/incogiscool/atom",
   },
   //   {
