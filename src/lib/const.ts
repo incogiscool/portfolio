@@ -57,6 +57,12 @@ export const sideQuests: SideQuest[] = [
     description: "My L1 certification rocket (set for launch this summer).",
   },
   {
+    title: "Affirmo (UOttaHack 8)",
+    description:
+      "Robot that roasts or affirms you. Built with two ESP32's, Raspberry Pi 4, ElevenLabs, and OpenRouter.",
+    link: "https://devpost.com/software/affirmo",
+  },
+  {
     title: "Agentpress",
     description: "Add AI agents to any Next.js with one line of code.",
     link: "https://github.com/incogiscool/agentpress",
