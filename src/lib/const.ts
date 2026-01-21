@@ -2,18 +2,18 @@ import type { Education, SideQuest, Work } from "./types";
 
 export const work: Work[] = [
   {
+    title: "Inspace",
+    year: "2025 -",
+    role: "Avionics",
+    description: "Building Ottawa's fastest rockets.",
+    link: "https://www.cuinspace.ca/",
+  },
+  {
     title: "RBX",
     year: "2023 -",
     role: "Founder",
     description: "Roblox Offerwalls. 300k users and growing.",
     link: "https://claimrbx.gg/app/earn",
-  },
-  {
-    title: "CUInspace",
-    year: "2025",
-    role: "Avionics",
-    description: "Building Ottawa's fastest rockets.",
-    link: "https://www.cuinspace.ca/",
   },
   {
     title: "Carleton University",
