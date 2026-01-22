@@ -53,8 +53,9 @@ export const education: Education[] = [
 
 export const sideQuests: SideQuest[] = [
   {
-    title: "FFR (Fast F*cking Rocket)",
-    description: "My L1 certification rocket (set for launch this summer).",
+    title: "FFR (official name TBD)",
+    description:
+      "My L1 certification sounding rocket (set for launch this summer).",
   },
   {
     title: "Affirmo (UOttaHack 8)",
