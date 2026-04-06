@@ -2,23 +2,23 @@ import type { Education, SideQuest, Work } from "./types";
 
 export const work: Work[] = [
   {
-    title: "Inspace",
+    title: "Carleton University Rocketry Team",
     year: "2025 -",
-    role: "Avionics",
+    role: "Avionics Lead",
     description: "Building Ottawa's fastest rockets.",
     link: "https://www.cuinspace.ca/",
   },
   {
-    title: "RBX",
+    title: "ClaimRBX",
     year: "2023 -",
-    role: "Founder",
+    role: "Co-founder",
     description: "Roblox Offerwalls. 300k users and growing.",
-    link: "https://claimrbx.gg/app/earn",
+    link: "https://claimrbx.gg/",
   },
   {
     title: "Carleton University",
     year: "2025",
-    role: "Internship",
+    role: "Software Engineering Intern",
     description:
       "Worked on the Oral Stories software. Preserving indigenous stories.",
     link: "https://stories.spokencree.org/credits",
@@ -26,7 +26,7 @@ export const work: Work[] = [
   {
     title: "We Are Social & Riot Games",
     year: "2024",
-    role: "Internship",
+    role: "Software Developer Intern",
     description:
       "Built RAG models and other cool shit. Worked with Riot Games for their Ramadan Valorant tracker app.",
     link: "https://wearesocial.com/me/",
@@ -53,7 +53,7 @@ export const education: Education[] = [
 
 export const sideQuests: SideQuest[] = [
   {
-    title: "FFR (official name TBD)",
+    title: "STARMAN",
     description:
       "My L1 certification sounding rocket (set for launch this summer).",
   },
