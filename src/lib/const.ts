@@ -4,7 +4,7 @@ export const work: Work[] = [
   {
     title: "Carleton University Rocketry Team",
     year: "2025 -",
-    role: "Avionics Lead",
+    role: "Team Lead",
     description: "Building Ottawa's fastest rockets.",
     link: "https://www.cuinspace.ca/",
   },
@@ -54,8 +54,7 @@ export const education: Education[] = [
 export const sideQuests: SideQuest[] = [
   {
     title: "STARMAN",
-    description:
-      "My L1 certification sounding rocket (set for launch this summer).",
+    description: "My L1 certification high-powered rocket.",
   },
   {
     title: "Affirmo (UOttaHack 8)",
